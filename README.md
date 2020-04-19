@@ -6,6 +6,6 @@ They contain attributes that reflect the ISO-Codes and State IDS
 
 Hope you find it useful.
 
-![india_states.png]
+![States](/india_states.png)
 
 (c) 2020. Shriphani Palakodety
